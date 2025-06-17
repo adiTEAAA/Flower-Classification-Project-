@@ -39,7 +39,7 @@ Dataset: https://www.kaggle.com/datasets/kausthubkannan/5-flower-types-classific
 
 ![Screenshot](https://i.imgur.com/lbpT9mz.png)
 ## Acknowledgements
-We acknowledge [Aditya Patil](https://github.com/Adityathere) for their contributions to the project's accessibility and user-friendliness, making it more inclusive to a wider audience.
+We acknowledge [Aditi Chauhan](https://github.com/Aditichauhan) for their contributions to the project's accessibility and user-friendliness, making it more inclusive to a wider audience.
 
 
 ![Logo](https://www.gradio.app/_app/immutable/assets/gradio.CHB5adID.svg)
